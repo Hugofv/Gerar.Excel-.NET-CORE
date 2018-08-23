@@ -1,0 +1,11 @@
+/mnt/repos/Gerar.Excel/Gerar.Excel/bin/Debug/netcoreapp2.0/Gerar.Excel.deps.json
+/mnt/repos/Gerar.Excel/Gerar.Excel/bin/Debug/netcoreapp2.0/Gerar.Excel.runtimeconfig.json
+/mnt/repos/Gerar.Excel/Gerar.Excel/bin/Debug/netcoreapp2.0/Gerar.Excel.runtimeconfig.dev.json
+/mnt/repos/Gerar.Excel/Gerar.Excel/bin/Debug/netcoreapp2.0/Gerar.Excel.dll
+/mnt/repos/Gerar.Excel/Gerar.Excel/bin/Debug/netcoreapp2.0/Gerar.Excel.pdb
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.csprojResolveAssemblyReference.cache
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.csproj.CoreCompileInputs.cache
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.AssemblyInfoInputs.cache
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.AssemblyInfo.cs
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.dll
+/mnt/repos/Gerar.Excel/Gerar.Excel/obj/Debug/netcoreapp2.0/Gerar.Excel.pdb
